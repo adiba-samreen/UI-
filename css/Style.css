@@ -37,7 +37,7 @@ nav{
     font-size: 0.9rem;
 }
 .social a:hover{
-    color: #0b9d8a; 
+    color: #0000FF; 
     transition: all ease 0.3s;
 }
 
@@ -86,7 +86,7 @@ nav{
     height: 25px;
     font-size: 0.8rem;
     border-radius: 50%;
-    background-color: #0b9d8a;
+    background-color: #0000FF;
     color: #ffffff;
     display: flex;
     justify-content: center;
@@ -202,7 +202,7 @@ nav{
 }
 .login-form input[type="submit"]
 .sign-up-form input[type="submit"]{
-    background-color: #0b9d8a;
+    background-color: #0000FF;
     color: #ffffff;
     border: none;
     outline: none;
@@ -308,13 +308,13 @@ nav{
     justify-content: center;
     align-items: center;
     color: #ffffff;
-    background-color: #0b9d8a;
+    background-color: #0000FF;
     text-transform: uppercase;
     letter-spacing: 2px;
     margin-top: 14px;
 }
 .f-slider-text strong font{
-    color: #0b9d8a;
+    color: #0000FF;
 }
 .feature-heading{
     display: flex;
@@ -372,7 +372,7 @@ nav{
 }
 .best-heading strong{
     color: #ffffff;
-    background-color: #202020;
+    background-color: #0000FF;
     font-weight: 500;
 }
 .manufacturers{
